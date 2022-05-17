@@ -1,0 +1,49 @@
+.padding{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.resim{
+    border: 5px;
+    border-radius: 50px;
+}
+
+.logo{
+    padding-top: 100px;
+    padding-left: 640px;
+}
+
+.searcher{
+    padding-left: 600px;
+}
+
+.button{
+    border: 1px bold #f2f2f2;
+    margin-right: 3px;
+    margin-top: 15px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #5f6368;
+    height: 34px;
+    box-shadow: 2px 2px;
+}
+
+.buyutec{
+    position: relative;
+    width: 15px;
+    right: 290px;
+    bottom: 40px;
+}
+
+.alt{
+    margin-top: 375px;
+    padding-left: 20px;
+    background-color: #f2f2f2;
+    padding-top:0px ;
+}
+
+.altsag{
+    position: relative;
+    bottom: 20px;
+}
